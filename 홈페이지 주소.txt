@@ -1,3 +1,9 @@
+#dothome URL
 hyang4700.dothome.co.kr
+http://hyang4700.dothome.co.kr/index.html
 
-http://hyang4700.dothome.co.kr/index.html#
+#netlify URL
+https://ezenps.netlify.app
+
+#git URL
+https://github.com/gjh999/ezen_pension.git
