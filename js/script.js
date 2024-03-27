@@ -7,6 +7,7 @@ $(function(){
         $(".sub").stop().slideUp();
     })
     */
+    console.log("스크립트 시작");
 
     // 초기 팝업
     $("#popup_n1").show();
